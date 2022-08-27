@@ -1,0 +1,1 @@
+import{_ as o,o as e,c as s}from"./index.1045af27.js";const t={name:"campus-loop"},c={href:"https://campusloop.cmdo.um.edu.mo/zh_TW/"};function p(a,m,n,r,_,u){return e(),s("a",c,"https://campusloop.cmdo.um.edu.mo/zh_TW/")}const f=o(t,[["render",p]]);export{f as default};
