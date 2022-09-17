@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.f63b8e49.css",
-    "main.js": "/static/js/main.d6a5e63f.js",
+    "main.css": "/static/css/main.e533e53e.css",
+    "main.js": "/static/js/main.b35c5a1f.js",
     "static/media/arkallLogo-original-rounded.png": "/static/media/arkallLogo-original-rounded.3c6fca61a56551054963.png",
     "index.html": "/index.html",
-    "main.f63b8e49.css.map": "/static/css/main.f63b8e49.css.map",
-    "main.d6a5e63f.js.map": "/static/js/main.d6a5e63f.js.map"
+    "main.e533e53e.css.map": "/static/css/main.e533e53e.css.map",
+    "main.b35c5a1f.js.map": "/static/js/main.b35c5a1f.js.map"
   },
   "entrypoints": [
-    "static/css/main.f63b8e49.css",
-    "static/js/main.d6a5e63f.js"
+    "static/css/main.e533e53e.css",
+    "static/js/main.b35c5a1f.js"
   ]
 }
